@@ -1,0 +1,18 @@
+Cyber Protocols Alliance                                                 8ortiz4
+Tracker: 1
+Category: Telecom                                                     1698304824
+
+
+                      Propuesta para el bloqueo de números
+
+
+Las llamadas no deseadas están a la orden del día y afectan cada vez a más
+usuarios. Estas acciones suponen un ataque directo a la intimidad de las
+personas. A lo largo de los años, se han ido creando mecanismos regulatorios
+para disminuir este tipo de llamadas cuyo resultado ha sido insatisfactorio. La
+posibilidad de bloquear números por parte del usuario se ha vuelto insostenible.
+Debido a la gran cantidad de números a bloquear, las opciones actuales se han
+vuelto obsoletas. Los usuarios deben tener a su disposición una herramienta que
+les proporcione la capacidad de administrar grandes cantidades de números
+bloqueados, no limitados a la capacidad de procesamiento de su dispositivo
+móvil.
